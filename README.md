@@ -11,6 +11,7 @@ I'm an experienced Full-stack developer who is ready bring your ideas com true. 
 - CSS3 (Sass/Less/Stylus)
 - Gulp / Webpack
 - Bootstrap or any other css framework
+- Bubble.io
 - Git
 - Figma, Sketch, Adobe XD, Adobe Photoshop, Adobe Illustrator
 
